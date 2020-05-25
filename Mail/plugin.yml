@@ -1,0 +1,17 @@
+name: Mail
+
+main: smo\Mail\Main
+
+version: 1.0.0
+
+api: 3.0.0
+
+load: POSTWORLD
+
+author: smo
+
+description: Mail plugin
+
+permissions:
+  mail.op:
+    default: op
